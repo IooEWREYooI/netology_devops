@@ -1,4 +1,6 @@
 # netology_devops
+## CI/CD
+11.[Teamcity](./09-ci-teamcity)
 ## Системы мониторинга
 13. [Системы мониторинга](./10-monitoring-systems)
 14. [Средство визуализации Grafana](./10-monitoring-grafana)
